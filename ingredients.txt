@@ -10,5 +10,6 @@ ginger
 american cheese
 onion
 pickle cucumber
-<<<<<<< HEAD
-salt and pepper
+salt
+pepper
+pure water
