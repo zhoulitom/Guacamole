@@ -10,3 +10,5 @@ ginger
 american cheese
 onion
 pickle cucumber
+salt
+pepper
